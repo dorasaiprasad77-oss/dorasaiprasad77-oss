@@ -1,66 +1,65 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm E Saiprasad Dora</h1>
-<h3 align="center">B.Tech CSE Student | Web Developer | Problem Solver</h3>
+<h1 align="center">Hi, I'm E Saiprasad Dora 👋</h1>
+<h3 align="center">B.Tech CSE Student | Full-Stack Developer | Building Real Projects</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-69c3d1c1-0c8d-4e4c-8e84-0a5c33bfb3b6.gif" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dorasaiprasad77-oss&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dorasaiprasad77-oss&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech Computer Science Engineering Student  
-- 💻 Passionate about **Web Development & Programming**  
-- 🧠 Learning **Java, DSA & System-level concepts**  
-- 🔨 Love building **real-world & problem-solving projects**  
-- 🎯 Goal: Become a skilled software engineer & crack top placements
+### 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Passionate about **Full-Stack Web Development** and problem solving
+- 🧠 Currently focused on **Next.js, TypeScript, Java & DSA**
+- 🚀 Love building real-world projects and learning by doing
+- 🎯 Goal: Become a skilled software engineer and crack good placements
 
 ---
 
-## 🛠️ Tech Stack & Languages
+### 🛠️ Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,python,cpp,c,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,java,python,cpp,git,github,figma,vercel" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
-- 🌾 **AgroVision** – AI-based Crop & Species Identification App  
-- 🎨 **PicAura** – Image Enhancement & Processing Tool  
-- 🔐 **PassNest** – Secure Password Manager  
-- 🌐 **My Portfolio** – Personal Developer Portfolio  
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[ASRONIX](https://github.com/dorasaiprasad77-oss/asronix)** | Tech Agency website with booking system, admin panel & notifications | Next.js, TypeScript, MongoDB, Twilio |
+| **[Real-Time Collaborative IDE](https://github.com/dorasaiprasad77-oss/realtime-collabrative-ide)** | Real-time collaborative coding platform for pair programming | JavaScript, WebSockets |
+| **[MemoryChain](https://github.com/dorasaiprasad77-oss/memorychain)** | Memory / blockchain related project | TypeScript |
+| **[Mental Health Support AI](https://github.com/dorasaiprasad77-oss/mental-heath-support-ai-assistant)** | AI assistant for mental health support | JavaScript |
+| **[Vyapar.ai](https://github.com/dorasaiprasad77-oss/vyapar.ai)** | Business / AI related project | TypeScript |
 
 ---
 
-## 💡 Interesting Things About Me
-- 🧩 I enjoy solving **logic & DSA problems**
-- ⚙️ Curious about **how things work internally**
-- 🚀 Believe in *learning by building*
-- 🕶️ Code + Debug + Repeat = Growth
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dorasaiprasad77-oss&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorasaiprasad77-oss&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorasaiprasad77-oss&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/e-saiprasad-dora-6131a2330" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://github.com/dorasaiprasad77-oss" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dorasaiprasad77-oss&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorasaiprasad77-oss&theme=tokyonight" />
 </p>
 
 ---
@@ -68,17 +67,3 @@
 <p align="center">
   <i>"Consistency beats talent when talent doesn’t stay consistent."</i>
 </p>
-<!--
-**dorasaiprasad77-oss/dorasaiprasad77-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
